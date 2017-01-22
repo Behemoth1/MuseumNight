@@ -1,0 +1,29 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2008
+
+Project("{17B04C79-BE0E-775E-4D35-16E9782F11B2}") = "Museum Night", "Assembly-CSharp.csproj", "{D959D99F-4183-5B95-D259-81D7B10F152E}"
+EndProject
+Project("{17B04C79-BE0E-775E-4D35-16E9782F11B2}") = "Museum Night", "Assembly-CSharp-Editor.csproj", "{7D1B2132-DE95-059D-220F-844973443FC3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D959D99F-4183-5B95-D259-81D7B10F152E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D959D99F-4183-5B95-D259-81D7B10F152E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D959D99F-4183-5B95-D259-81D7B10F152E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D959D99F-4183-5B95-D259-81D7B10F152E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7D1B2132-DE95-059D-220F-844973443FC3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7D1B2132-DE95-059D-220F-844973443FC3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7D1B2132-DE95-059D-220F-844973443FC3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7D1B2132-DE95-059D-220F-844973443FC3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal

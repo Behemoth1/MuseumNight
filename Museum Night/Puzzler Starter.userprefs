@@ -1,0 +1,14 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="../vrnd-course3-starterproject-001/Assets/GoogleVR/Scripts/GazeInputModule.cs">
+    <Files>
+      <File FileName="../vrnd-course3-starterproject-001/Assets/GoogleVR/Scripts/GazeInputModule.cs" Line="354" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="/Users/svetlanayarmolik/Downloads/Puzzler Starter/Assets/GoogleVR/Scripts/GazeInputModule.cs" line="88" column="20" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
